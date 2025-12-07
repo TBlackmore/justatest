@@ -200,3 +200,19 @@ dist
 
 ### Astro ###
 .astro/
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Python distribution / packaging
+*.egg-info/
+dist-python/
+build-python/
