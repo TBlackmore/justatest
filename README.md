@@ -48,7 +48,7 @@ In addition to the Astro blog, this repository includes a separate community blo
 justatest/
 ├── blog/
 │   ├── assets/
-│   │   └── placeholder-image.jpg    # Placeholder images and assets
+│   │   └── placeholder-image.svg     # Placeholder images and assets
 │   └── posts/
 │       └── sample-post.md            # Community blog posts
 ├── src/

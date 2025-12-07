@@ -33,7 +33,7 @@ To create your own blog post:
 You can reference images from the assets folder:
 
 ```markdown
-![Placeholder](../assets/placeholder-image.jpg)
+![Placeholder](../assets/placeholder-image.svg)
 ```
 
 ## Formatting Examples
